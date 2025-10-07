@@ -1,0 +1,6 @@
+start simulation:
+
+IP (also the access code): Ipconfig (129.12.233.137)
+start server: node server\server.mjs
+start link: npx localtunnel --port 400
+open admin: http://129.12.233.137:4000/admin.html
